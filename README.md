@@ -1,1 +1,7 @@
 # autocekqscv
+
+```
+proot-distro install alpine
+proot-distro login alpine
+
+```

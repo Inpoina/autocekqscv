@@ -18,7 +18,7 @@ document.querySelectorAll('input[type="radio"][value="RadioButtonOKChief"]').for
 #versi id
 
 ```
-document.querySelectorAll('input[id*="RadioButtonOK"]').forEach(rb => {
+document.querySelectorAll('input[id*="RadioButtonOKChief"]').forEach(rb => {
     rb.click();
 });
 

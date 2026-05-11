@@ -9,7 +9,7 @@ document.querySelectorAll('input[type="radio"]').forEach(rb => {
 #versi 2
 
 ```
-document.querySelectorAll('input[type="radio"][value="RadioButtonOK"]').forEach(rb => {
+document.querySelectorAll('input[type="radio"][value="RadioButtonOKChief"]').forEach(rb => {
     rb.click();
 });
 
